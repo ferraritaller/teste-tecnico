@@ -3,7 +3,7 @@ Seja bem-vindo ao teste técnico da Taller, o objetivo aqui é conhecer um pouco
 
 Por favor acesso arquivo *index.html* ele te encaminhar para o início do protótipo, caso o navegador sugir você instalar um plugin do axure, fique tranquilo, pode instalar pois é necessário para ter uma melhor visualização.
 
-Siga abaixo as histórias de usurio
+Siga abaixo as histórias de usuário:
 
 # Página de Login
 - O usuário deverá se logar com seu e-mail e senha. Os campos do formulrio são obrigatrios, mostrar uma mensagem na tentativa de enviar o formulário vazio.
