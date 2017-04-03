@@ -1,7 +1,7 @@
 # Projeto empresas com churrasco garantido
 Seja bem-vindo(a) ao teste técnico da Taller, o objetivo aqui é conhecer um pouco mais sobre sua aptidão técnica, tomadas de decisões entre outros pontos.
 
-Por favor acess e o arquivo *index.html* que te encaminhará para o início do protótipo. Caso o navegador sugirerir que você instale um plugin do axure, fique tranquilo(a), pois o medo será necessário para ter uma melhor visualização.
+Por favor acesse e o arquivo *index.html* que te encaminhará para o início do protótipo. Caso o navegador sugirerir que você instale um plugin do axure, fique tranquilo(a), pois o medo será necessário para ter uma melhor visualização.
 
 Siga abaixo as histórias de usuário:
 
