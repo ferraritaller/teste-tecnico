@@ -1,12 +1,12 @@
-# Projeto empresas com churrasco garantido
-Seja bem-vindo(a) ao teste técnico da Taller, o objetivo aqui é conhecer um pouco mais sobre sua aptidão técnica, tomadas de decisões entre outros pontos.
+# Projeto "Empresas com churrasco garantido"
+Seja bem-vindo(a) ao teste técnico da Taller! O objetivo aqui é conhecer um pouco mais sobre sua aptidão técnica, tomadas de decisões entre outros pontos.
 
-Por favor acesse e o arquivo *index.html* que te encaminhará para o início do protótipo. Caso o navegador sugerir a instalação de um plugin do axure, fique tranquilo(a), pois ele será necessário para ter uma melhor visualização.
+O protótipo do teste foi feito em Axure para simular a entrega de um designer. Para acessa-lo, baixe o projeto para seu local e acesse pelo navegador o arquivo  *index.html*. Caso o navegador sugerir a instalação de um plugin, fique tranquilo(a), pois ele será necessário para ter uma melhor visualização.
 
-Siga abaixo as histórias de usuário:
+Você deve implementar as seguintes histórias de usuário:
 
 # Página de Login
-- O usuário deverá se logar com seu e-mail e senha. Os campos do formulário são obrigatórios e deve mostrar uma mensagem na tentativa de enviar o formulário vazio.
+- O usuário deverá logar com seu e-mail e senha. Os campos do formulário são obrigatórios.
 
 # Página de nova conta
 - Qualquer pessoa pode criar uma conta, todos os campos são obrigatórios. Seguir a estrutura definida no protótipo.
